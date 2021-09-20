@@ -21,10 +21,10 @@
 # Links
 
 - GitHub Repository Link
-
+https://github.com/rprice000/get-it-done
 
 - Website Link
-
+https://rprice000.github.io/get-it-done/
 
 # Version
 
